@@ -1,0 +1,15 @@
+server:
+  shutdown: graceful
+
+spring:
+  lifecycle:
+    timeout-per-shutdown-phase: 10s
+  profiles:
+    include:
+      - data-config
+  data:
+    redis:
+      port: ${REDIS_PORT}
+      host: ${REDIS_HOST}
+      repositories:
+        enabled: false

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.38/57f8f5e02e92a30fd21b80cbd426a4172b5f8e29/lombok-1.18.38.jar" />
+        </processorPath>
+        <module name="kb.boot.main" />
+        <module name="kb.data.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="17">
+      <module name="assignment.boot" target="17" />
+      <module name="assignment.boot.main" target="17" />
+      <module name="assignment.boot.test" target="17" />
+      <module name="assignment.data" target="17" />
+      <module name="assignment.data.main" target="17" />
+      <module name="assignment.data.test" target="17" />
+      <module name="assignment.infra" target="17" />
+      <module name="assignment.infra.main" target="17" />
+      <module name="assignment.infra.test" target="17" />
+      <module name="assignment.main" target="17" />
+      <module name="assignment.test" target="17" />
+      <module name="boot" target="17" />
+      <module name="boot.main" target="17" />
+      <module name="boot.test" target="17" />
+      <module name="data" target="17" />
+      <module name="data.main" target="17" />
+      <module name="data.test" target="17" />
+      <module name="infra" target="17" />
+      <module name="infra.main" target="17" />
+      <module name="infra.test" target="17" />
+      <module name="kbhc.boot" target="17" />
+      <module name="kbhc.boot.main" target="17" />
+      <module name="kbhc.boot.test" target="17" />
+      <module name="kbhc.data" target="17" />
+      <module name="kbhc.data.main" target="17" />
+      <module name="kbhc.data.test" target="17" />
+      <module name="kbhc.infra" target="17" />
+      <module name="kbhc.infra.main" target="17" />
+      <module name="kbhc.infra.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="assignment.boot" options="-parameters" />
+      <module name="assignment.boot.main" options="-parameters" />
+      <module name="assignment.boot.test" options="-parameters" />
+      <module name="assignment.data" options="-parameters" />
+      <module name="assignment.data.main" options="-parameters" />
+      <module name="assignment.data.test" options="-parameters" />
+      <module name="assignment.infra" options="-parameters" />
+      <module name="assignment.infra.main" options="-parameters" />
+      <module name="assignment.infra.test" options="-parameters" />
+      <module name="assignment.main" options="-parameters" />
+      <module name="assignment.test" options="-parameters" />
+      <module name="boot" options="-parameters" />
+      <module name="boot.main" options="-parameters" />
+      <module name="boot.test" options="-parameters" />
+      <module name="data" options="-parameters" />
+      <module name="data.main" options="-parameters" />
+      <module name="data.test" options="-parameters" />
+      <module name="infra" options="-parameters" />
+      <module name="infra.main" options="-parameters" />
+      <module name="infra.test" options="-parameters" />
+      <module name="kb.boot" options="-parameters" />
+      <module name="kb.boot.main" options="-parameters" />
+      <module name="kb.boot.test" options="-parameters" />
+      <module name="kb.data" options="-parameters" />
+      <module name="kb.data.main" options="-parameters" />
+      <module name="kb.data.test" options="-parameters" />
+      <module name="kb.infra" options="-parameters" />
+      <module name="kb.infra.main" options="-parameters" />
+      <module name="kb.infra.test" options="-parameters" />
+      <module name="kbhc.boot" options="-parameters" />
+      <module name="kbhc.boot.main" options="-parameters" />
+      <module name="kbhc.boot.test" options="-parameters" />
+      <module name="kbhc.data" options="-parameters" />
+      <module name="kbhc.data.main" options="-parameters" />
+      <module name="kbhc.data.test" options="-parameters" />
+      <module name="kbhc.infra" options="-parameters" />
+      <module name="kbhc.infra.main" options="-parameters" />
+      <module name="kbhc.infra.test" options="-parameters" />
+    </option>
+  </component>
+</project>
